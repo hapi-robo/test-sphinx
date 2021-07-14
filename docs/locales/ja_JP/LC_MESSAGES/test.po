@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../source/test.rst:6 fd9c3886972f479b9172a2348c650846
 msgid "Overview"
-msgstr ""
+msgstr "概要概要"
 
 #: ../../source/test.rst:8 1de8d652762d4ddaa8af7e7fd67665b0
 msgid "This guide should assist in the understanding of the following concepts:"
-msgstr ""
+msgstr "このガイドは、次の概念の理解に役立つはずです。"
 
 #: ../../source/test.rst:10 23f82975c3374f3c8f5cb041f211f923
 msgid "Best practices"
