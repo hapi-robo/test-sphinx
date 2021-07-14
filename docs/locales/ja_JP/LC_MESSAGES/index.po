@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Ray
+# This file is distributed under the same license as the Test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-14 15:15+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/index.rst:9 58a437a1b85d4b44b75f03843321bdf3
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:7 a12463babcad4b819c97c0d6d2b84631
+msgid "Welcome to Test's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:16 5b1f8a68c40e4e499f12cc6d45f14b5a
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:18 06cf97d7194c48ada08e1b9bd33ced2c
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:19 4130ff96e9894c579f673ae4ce9dc4bf
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:20 26a30cf657044b6f9157c23460cd934a
+msgid ":ref:`search`"
+msgstr ""
+

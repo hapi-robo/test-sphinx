@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Ray
+# This file is distributed under the same license as the Test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-14 15:15+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/test.rst:6 fd9c3886972f479b9172a2348c650846
+msgid "Overview"
+msgstr ""
+
+#: ../../source/test.rst:8 1de8d652762d4ddaa8af7e7fd67665b0
+msgid "This guide should assist in the understanding of the following concepts:"
+msgstr ""
+
+#: ../../source/test.rst:10 23f82975c3374f3c8f5cb041f211f923
+msgid "Best practices"
+msgstr ""
+
+#: ../../source/test.rst:11 62507d758b7346df94b7f7bde02384d0
+msgid "Network Architecture"
+msgstr ""
+
+#: ../../source/test.rst:12 2c230cb8a4cd414190a4062a829c15b3
+msgid "Security and privacy policies"
+msgstr ""
+
+#: ../../source/test.rst:13 a152366561f84dd6b5e42e5c45f6f5f4
+msgid "Requirements and considerations for proper setup and operation"
+msgstr ""
+
+#: ../../source/test.rst:15 c6d2f36388914e52819089c3fdedcc55
+msgid ""
+"This guide is written for system administrators responsible for managing "
+"business networks and hardware. It assumes that you are familiar with:"
+msgstr ""
+
+#: ../../source/test.rst:17 c2c93cacc2db4a2b8d193a5a60d407fd
+msgid "Network configuration"
+msgstr ""
+
+#: ../../source/test.rst:18 e9427707ea074b669a146bcde525cae8
+msgid "Network security"
+msgstr ""
+
