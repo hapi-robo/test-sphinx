@@ -16,3 +16,9 @@ This guide is written for system administrators responsible for managing busines
 
 - Network configuration
 - Network security
+- Homescreen
+
+.. figure:: assets/home-screen.png 
+  :alt: Wi-Fi network selection menu
+
+  Tap on the information icon on the right-hand side of the connected network to bring up the network settings page.

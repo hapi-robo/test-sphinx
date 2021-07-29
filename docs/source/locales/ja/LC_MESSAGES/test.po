@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 15:15+0900\n"
+"POT-Creation-Date: 2021-07-29 16:48+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,41 +17,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../source/test.rst:6 fd9c3886972f479b9172a2348c650846
+#: ../../source/test.rst:6 0e777786573546939860724a9b7441d1
 msgid "Overview"
 msgstr "概要概要"
 
-#: ../../source/test.rst:8 1de8d652762d4ddaa8af7e7fd67665b0
+#: ../../source/test.rst:8 f96f5447ac5145da9ee221928c17ffc6
 msgid "This guide should assist in the understanding of the following concepts:"
-msgstr "このガイドは、次の概念の理解に役立つはずです。"
+msgstr ""
 
-#: ../../source/test.rst:10 23f82975c3374f3c8f5cb041f211f923
+#: ../../source/test.rst:10 94e7216f1ed34d4c80a0a47a825ce5c4
 msgid "Best practices"
 msgstr ""
 
-#: ../../source/test.rst:11 62507d758b7346df94b7f7bde02384d0
+#: ../../source/test.rst:11 ecfab96a9bed464fa2adc62691942cf7
 msgid "Network Architecture"
 msgstr ""
 
-#: ../../source/test.rst:12 2c230cb8a4cd414190a4062a829c15b3
+#: ../../source/test.rst:12 86b6e0f31117471aa4e44b133fb73090
 msgid "Security and privacy policies"
 msgstr ""
 
-#: ../../source/test.rst:13 a152366561f84dd6b5e42e5c45f6f5f4
+#: ../../source/test.rst:13 3913df5815104a8398b2e9dae85ddb1e
 msgid "Requirements and considerations for proper setup and operation"
 msgstr ""
 
-#: ../../source/test.rst:15 c6d2f36388914e52819089c3fdedcc55
+#: ../../source/test.rst:15 74fdd379e5474da3a9d3406cecfad7be
 msgid ""
 "This guide is written for system administrators responsible for managing "
 "business networks and hardware. It assumes that you are familiar with:"
 msgstr ""
 
-#: ../../source/test.rst:17 c2c93cacc2db4a2b8d193a5a60d407fd
+#: ../../source/test.rst:17 4b53e91ceb814148b9aafa46d102d2bf
 msgid "Network configuration"
 msgstr ""
 
-#: ../../source/test.rst:18 e9427707ea074b669a146bcde525cae8
+#: ../../source/test.rst:18 6479e5a077eb4e5b9990a2ad2e4f09f8
 msgid "Network security"
+msgstr ""
+
+#: ../../source/test.rst:23 79830e3e882e4fa3861b454e7d672ee8
+msgid "Wi-Fi network selection menu"
+msgstr ""
+
+#: ../../source/test.rst:23 d35e9840fadf40dcabc9361f9b83e84a
+msgid ""
+"Tap on the information icon on the right-hand side of the connected "
+"network to bring up the network settings page."
 msgstr ""
 
